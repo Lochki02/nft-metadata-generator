@@ -1,0 +1,20 @@
+{
+  "name": "Replace with Your collection name #1",
+  "description": "Replace with Your collection description",
+  "image": "ipfs://your_cid/1.png",
+  "edition": 1,
+  "attributes": [
+    {
+      "trait_type": "1",
+      "value": ""
+    },
+    {
+      "trait_type": "2",
+      "value": ""
+    },
+    {
+      "trait_type": "3",
+      "value": ""
+    }
+  ]
+}
