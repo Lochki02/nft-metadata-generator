@@ -26,9 +26,8 @@ You can remove the attributes if you don't want to add traits and values.
 
 👤 **Davide Giacò**
 
-* Github: [@Paraxite](https://github.com/Paraxite)
-* Linktree: [Paraxite](https://linktr.ee/paraxite)
-* Paypal (if this tool was useful ❤️): [Granjalf](https://paypal.me/granjalf)
+* Github: [@Lochki](https://github.com/Lochki02)
+* Linktree: [Lochki](https://linktr.ee/lochki)
 
 ## Show your support
 
